@@ -1,0 +1,18 @@
+[
+	{
+		"id": "hash1",
+		"text": "HELLO",
+		"inlets": [],
+		"outlets": ["1_hash2", null, "0_hash2"],
+		"x": 130,
+		"y": 60
+	},
+	{
+		"id": "hash2",
+		"text": "WORLD",
+		"inlets": ["2_hash1", "0_hash1"],
+		"outlets": [],
+		"x": 130,
+		"y": 150
+	}
+]
